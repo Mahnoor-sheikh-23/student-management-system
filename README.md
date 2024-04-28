@@ -14,7 +14,7 @@ student records, track fee payments, and view financial balances. 📌</i></p>
 </ul>
 <h1><i>INSTALLATION 📍</i></h1>
 <p><i>If you want to use my SMS(Student Management System) so you can install it from npm the command is </i></p>
-<p><b><i>npm i student-record-system</i> 🔴</b></p>
+<p><b><i>npm i school-record-system</i> 🔴</b></p>
 <h1><b><i>📧 CONTACT US:</i></b></h1>
 <p><i>For more details contact me on linkdin the link is 👇</i></p>
 <p><i>"https://www.linkedin.com/in/growthmonii/"</i></p>
