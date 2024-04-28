@@ -17,5 +17,7 @@ student records, track fee payments, and view financial balances. 📌</i></p>
 <p><b><i>npm i student-record-system</i> 🔴</b></p>
 <h1><b><i>📧 CONTACT US:</i></b></h1>
 <p><i>For more details contact me on linkdin the link is 👇</i></p>
-<link src ="https://www.linkedin.com/in/growthmonii/">
+<p><i>>"https://www.linkedin.com/in/growthmonii/"</i></p>
 <p><i>Feel Free To Ask Anything 🌸</i></p>
+
+<h1><b><i>THANK YOU SO MUCH FOR CHECK MY REPO 💮</i></b></h1>
